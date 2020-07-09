@@ -4,7 +4,7 @@
 <a href="https://github.com/rameshvarun/showdownbot"><img src="./small-showdownbot.gif" height="180"></img></a>
 
 # Open Source Games
-<a href="https://github.com/rameshvarun/BlueScreen"><img src="./small-bluescreen.gif" height="150"></img></a>
+<a href="https://github.com/rameshvarun/BlueScreen"><img src="https://i.imgur.com/JwiA16T.gif" height="150"></img></a>
 <a href="https://github.com/rameshvarun/fault"><img src="./small-fault.gif" height="150"></img></a>
 <a href="https://github.com/rameshvarun/Ulfhednar"><img src="./small-ulfhednar.gif" height="150"></img></a>
 <a href="https://github.com/rameshvarun/dunces-on-deck"><img src="./small-dunces-on-deck.gif" height="150"></img></a>

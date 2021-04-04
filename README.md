@@ -1,9 +1,9 @@
-# Open Source AI/ML Projects
+# AI/ML Projects
 <a href="https://github.com/rameshvarun/NeuralKart"><img src="https://raw.githubusercontent.com/rameshvarun/rameshvarun/master/small-neuralkart.gif" height="180"></img></a>
 <a href="https://github.com/harrison8989/recolorizer"><img src="https://raw.githubusercontent.com/rameshvarun/rameshvarun/master/small-recolorizer.png" height="180"></img></a>
 <a href="https://github.com/rameshvarun/showdownbot"><img src="https://raw.githubusercontent.com/rameshvarun/rameshvarun/master/small-showdownbot.gif" height="180"></img></a>
 
-# Open Source Games
+# Games
 <a href="https://github.com/rameshvarun/BlueScreen"><img src="https://raw.githubusercontent.com/rameshvarun/rameshvarun/master/small-bluescreen.gif" height="150"></img></a>
 <a href="https://github.com/rameshvarun/fault"><img src="https://raw.githubusercontent.com/rameshvarun/rameshvarun/master/small-fault.gif" height="150"></img></a>
 <a href="https://github.com/rameshvarun/Ulfhednar"><img src="https://raw.githubusercontent.com/rameshvarun/rameshvarun/master/small-ulfhednar.gif" height="150"></img></a>
